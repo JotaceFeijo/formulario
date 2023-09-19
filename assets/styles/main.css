@@ -1,0 +1,16 @@
+:root{
+    --colorCabecera: #bf0909;
+    --colorTituloCabecera:#ffffff;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.cardGestionSeguimiento{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
